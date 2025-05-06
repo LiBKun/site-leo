@@ -199,10 +199,6 @@ body {
   .item {
     width: 80%;
   }
-
-  .toca-home {
-    width: 80% !important;
-  }
 }
 
 @media (max-width: 480px) {
